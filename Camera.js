@@ -3,8 +3,8 @@ class Camera{
         this.par = parWorld
         this.xs = xs
         this.ys = ys
-        this.scx = width/2
-        this.scy =height - height/2
+        this.scx = width/5
+        this.scy =height - height/4
         this.x = this.scx
         this.y = this.scy
     }
